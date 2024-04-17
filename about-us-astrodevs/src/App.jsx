@@ -13,17 +13,27 @@ function App() {
   return (
     <>
 
-    <Navbar />
+    {/* Cristina */}
+
+    <Navbar />  
+
+    {/* Maria */}
 
     <Aboutproject />
 
+    {/* Albert */}
+
     <Team />
+
+    {/* Form */}
 
     <Form />
 
+    {/* Alberto */}
+
     <Footer />
 
-
+    
     </>
   )
 }
