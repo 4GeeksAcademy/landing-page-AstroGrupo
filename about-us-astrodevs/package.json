@@ -21,6 +21,18 @@
     "eslint-plugin-react": "^7.34.1",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.6",
-    "vite": "^5.2.0"
-  }
+    "vite": "^5.2.9"
+  },
+  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4GeeksAcademy/landing-page-AstroGrupo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4GeeksAcademy/landing-page-AstroGrupo/issues"
+  },
+  "homepage": "https://github.com/4GeeksAcademy/landing-page-AstroGrupo#readme"
 }
