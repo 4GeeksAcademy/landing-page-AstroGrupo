@@ -1,0 +1,21 @@
+.member__container{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    border:1px solid #252b36;
+    border-radius: 5px;
+}
+
+.member__name{
+    font-family: 'Poppins';
+    font-weight: 300;
+    padding: .5rem 1rem;
+
+}
+
+.member__image{
+    height: 10rem;
+    width: 10rem;
+    border-radius: 50%;
+}
