@@ -1,6 +1,6 @@
 .team__container {
     background-color: #14171D;
-    
+   
     width: 100vw;
     font-family: "Poppins", sans-serif;
     font-weight: 300;
@@ -15,7 +15,7 @@
 
 .team__title {
     text-transform: uppercase;
-    letter-spacing: .2rem;
+    
     font-family: "Days One", sans-serif;
     font-weight: 400;
     font-style: normal;
