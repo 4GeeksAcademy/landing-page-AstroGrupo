@@ -76,3 +76,8 @@ input:hover{
 select:hover{
     filter: drop-shadow(0 0 2em #63191d60);
 }
+
+label{
+    color: white;
+}
+
