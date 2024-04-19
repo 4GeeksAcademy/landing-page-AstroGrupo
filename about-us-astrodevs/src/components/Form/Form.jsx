@@ -2,7 +2,7 @@ import './Form.css';
 import { Title } from './title/Title';
 import { Input } from './info_input/Input';
 
- const Form = () => {
+ export const Form = () => {
 
     return (
         <>
@@ -14,4 +14,3 @@ import { Input } from './info_input/Input';
     );
 };
 
-export default Form
