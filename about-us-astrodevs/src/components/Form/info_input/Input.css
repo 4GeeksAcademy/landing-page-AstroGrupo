@@ -1,0 +1,78 @@
+.input {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.info{
+    width: 24rem;
+    height: 30rem;
+    display: flex;
+    justify-content: flex-start;
+    margin-right: 23rem;
+    margin-top: 5rem;
+}
+
+.picture{
+    margin-left: -15rem;
+
+}
+
+.pic1{
+    width: 25rem;
+    margin-left: -32rem;
+}
+
+.pic2{
+    width: 36rem;
+    height: 36rem;
+    margin-left: -5rem;
+    margin-top: 0rem;
+    margin-right: -3rem;
+
+}
+
+
+.pic3{
+    
+    margin-left: -66rem;
+    margin-top: -18rem;
+    width: 26rem;
+
+}
+
+button:hover{
+    filter: drop-shadow(0 0 2em #646cffaa);
+    
+}
+
+.btn:hover{
+    color: white;
+    background-color: red;
+}
+
+.form-control {
+    border: 0;
+    box-shadow: none;
+}
+
+input[type=text] {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #000000;
+}
+
+input[type=email] {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #000000;
+}
+
+input:hover{
+    filter: drop-shadow(0 0 2em #63191d60);
+
+}
+
+select:hover{
+    filter: drop-shadow(0 0 2em #63191d60);
+}

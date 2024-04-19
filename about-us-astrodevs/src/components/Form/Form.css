@@ -1,0 +1,14 @@
+.form_Background {
+    width: 100vw;
+    background-color: rgba(20,23,29,255);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+background-image{
+width: 1rem;
+
+}
