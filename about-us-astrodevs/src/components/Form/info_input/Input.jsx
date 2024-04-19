@@ -8,19 +8,19 @@ export const Input = () => {
                     <form class="row g-3">
                         <div class="col-12">
                             <label for="inputName" class="form-label">Full Name</label>
-                            <input type="text" class="form-control" id="inputName" placeholder="1234 Main St" />
+                            <input type="text" class="form-control" id="inputName" placeholder="type your name" />
                         </div>
                         <div class="col-md-6">
                             <label for="inputEmail4" class="form-label">Email</label>
-                            <input type="email" class="form-control" id="inputEmail4" />
+                            <input type="email" class="form-control" id="inputEmail4" placeholder="type your email" />
                         </div>
                         <div class="col-md-6">
                             <label for="inputphoneNumber" class="form-label">Phone Number</label>
-                            <input type="text" class="form-control" id="inputphoneNumber" />
+                            <input type="text" class="form-control" id="inputphoneNumber" placeholder="123-321-4563"/>
                         </div>
                         <div class="col-md-6">
                             <label for="inputCity" class="form-label">City</label>
-                            <input type="text" class="form-control" id="inputCity" />
+                            <input type="text" class="form-control" id="inputCity" placeholder="your city"/>
                         </div>
                         <div class="col-md-4">
                             <label for="inputState" class="form-label">State</label>
@@ -31,7 +31,7 @@ export const Input = () => {
                         </div>
                         <div class="col-md-2">
                             <label for="inputZip" class="form-label">Zip</label>
-                            <input type="text" class="form-control" id="inputZip" />
+                            <input type="text" class="form-control" id="inputZip" placeholder="xxxxx"/>
                         </div>
                         <div class="col-12">
                             <button type="submit" class="btn btn-dark">Send Distress Beacon</button>
