@@ -1,0 +1,35 @@
+.navbar {
+    height: 3.5rem;
+    padding: .5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #14171e;
+}
+.navbar__left {
+    flex: 1; /* El logo ocupará todo el espacio sobrante a la izquierda */
+}
+
+.navbar__logo {
+    width: 100px; /* Ajusta el tamaño del logo según tus necesidades */
+}
+.navbar__title--larger {
+    font-size: 1.2em; /* Tamaño de fuente más grande */
+}
+    
+}
+.navbar__center {
+    flex: 3; /* Los botones ocuparán la mayor parte del espacio en el centro */
+    display: flex;
+    justify-content: space-around;
+}
+
+.navbar__button {
+    background-color: transparent;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 8px 16px;
+    font-size: 16px;
+}
